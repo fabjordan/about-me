@@ -140,9 +140,10 @@
               <h4 class="text-white mt-3 font-weight-bold">2016</h4>
               <hr class="bg-secondary">
               <p class="text-white mt-5">
-                Em 2015 com 16 anos, entrei na faculdade de Ciência da Computação, onde tive contato com a minha
-                primeira linguagem de programação, a linguagem C. Criei diversos projetos de estudo como: calculadoras,
-                conversores de temperatura, tradutor de código morse, sistema de locadora de filmes e vários outros.
+                Em 2016 conheci diversas linguagens como o Java, PHP e o Javascript. Desenvolvi diversos projetos de
+                faculdade com essas linguagens como, sistema de controle de contas bancárias (Java), Blogs (PHP e
+                Javascript), plataforma de compras online (1 versão com Java e outra com PHP e Javascript) dentre
+                outros.
               </p>
             </div>
           </b-col>
